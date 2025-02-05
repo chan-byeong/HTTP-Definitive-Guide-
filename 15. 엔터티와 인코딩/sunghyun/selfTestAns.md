@@ -1,0 +1,11 @@
+### Content-Length는 메세지의 엔터티 본문의 크기를 000 단위로 나타낸다.
+
+- 바이트
+
+### 자신의 Content-Length를 직접 정의할 수 있는 헤더는?
+
+- multipart/byterangers
+
+### 클라이언트에서 해독할 수 없는 인코딩을 사용하지않도록 자신이 지원하는 인코딩 목록을 알려주는 헤더의 이름은?
+
+- Accept-Encoding
